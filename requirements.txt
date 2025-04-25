@@ -1,5 +1,0 @@
-streamlit
-pandas
-scikit-learn
-PyPDF2  # For handling PDF files
-docx      # For handling DOCX files
